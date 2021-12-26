@@ -1,0 +1,69 @@
+html,
+body {
+  height: 100%;
+}
+* {
+  box-sizing: border-box;
+}
+body {
+  margin: 0 auto;
+  background-image: linear-gradient(to top, #00c6fb 0%, #005bea 100%);
+  font-family: "Lobster", cursive;
+  color: #00c6fb;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.stars {
+  margin: 5px auto;
+  width: 255px;
+}
+h1 {
+  font-size: 50px;
+  text-align: center;
+  margin-top: 5px;
+}
+.content {
+  width: 820px;
+  margin: 20px auto 10px auto;
+}
+.christmastree {
+  display: inline-block;
+  width: 370px;
+  height: 560px;
+  margin: 30px 20px 5px 0;
+  cursor: pointer;
+}
+.notoystree {
+  display: block;
+  width: 100%;
+}
+.withtoystree {
+  display: none;
+  width: 100%;
+}
+.greetings {
+  margin-right: 0px;
+  display: inline-block;
+  height: 560px;
+  width: 420px;
+}
+.text {
+  font-size: 22px;
+  text-align: center;
+  margin-bottom: 30px;
+}
+.snowflake {
+  display: block;
+  margin: 10px auto;
+}
+.presents {
+  margin-bottom: 10px;
+  display: none;
+}
+.santa1 {
+  display: inline;
+}
+.press {
+  font-size: 15px;
+  text-align: center;
+}
