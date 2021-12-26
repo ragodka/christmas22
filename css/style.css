@@ -7,7 +7,7 @@ body {
 }
 body {
   margin: 0 auto;
-  background linear-gradient(to top, #00c6fb 0%, #005bea 100%) fixed;
+  background: linear-gradient(to top, #00c6fb 0%, #005bea 100%) fixed;
   font-family: "Lobster", cursive;
   color: #00c6fb;
   background-size: cover;
